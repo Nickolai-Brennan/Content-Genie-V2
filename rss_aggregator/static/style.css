@@ -1,0 +1,42 @@
+/* static/style.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+h1 {
+    color: #343a40;
+}
+
+.form-inline {
+    display: flex;
+    justify-content: center;
+}
+
+.list-group-item {
+    margin-bottom: 10px;
+    background-color: #ffffff;
+    border: 1px solid #e9ecef;
+    border-radius: 5px;
+}
+
+.list-group-item:hover {
+    background-color: #f1f1f1;
+}
+
+.list-group-item h5 {
+    color: #007bff;
+}
+
+.list-group-item p {
+    color: #6c757d;
+}
+
+.list-group-item small {
+    color: #6c757d;
+}
